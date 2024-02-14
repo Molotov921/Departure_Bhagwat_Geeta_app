@@ -20,6 +20,10 @@ To get started with the Departure_Bhagwat_Geeta project, follow these steps:
 
 For detailed instructions on Flutter development, refer to the [online documentation](https://docs.flutter.dev/).
 
+## Screenshots
+
+- Add screenshots here -
+
 ## Additional Resources
 
 This project is a starting point for a Flutter application. Here are a few resources to get you started:
