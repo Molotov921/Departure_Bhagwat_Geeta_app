@@ -28,7 +28,7 @@ For detailed instructions on Flutter development, refer to the [online documenta
 
 | Home Page (Dark Mode) | Detail Page (Light Mode) | Detail Page (Dark Mode) |
 |------------------------|---------------------------|--------------------------|
-| ![HomePage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/75bb4a67-89ac-4cf4-a482-24a07aac1c8e) | ![DetailPage_light_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/b1089f11-55dc-4e7a-8958-1fc65fb83026) | ![DetailPage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/392be1cd-ba24-48ba-9af5-820bfdbd7859) |
+| ![DetailPage_light_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/b1089f11-55dc-4e7a-8958-1fc65fb83026)| ![HomePage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/75bb4a67-89ac-4cf4-a482-24a07aac1c8e) | ![DetailPage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/392be1cd-ba24-48ba-9af5-820bfdbd7859) |
 
 ## Additional Resources
 
