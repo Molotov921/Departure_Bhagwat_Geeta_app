@@ -20,6 +20,10 @@ To get started with the Departure_Bhagwat_Geeta project, follow these steps:
 
 For detailed instructions on Flutter development, refer to the [online documentation](https://docs.flutter.dev/).
 
+## Demo Screen Recording
+
+https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/37f9ed26-1035-465a-89dc-6feee677617d
+
 ## Screenshots
 
 | Splash Screen          | Home Page (Light Mode) | Home Page (Language Change) |
@@ -27,7 +31,7 @@ For detailed instructions on Flutter development, refer to the [online documenta
 | ![Splash_Screen](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/8a201b19-1220-46bc-abfe-a542f5908424) | ![HomePage_light_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/3c783f2a-980e-4e64-89ac-0a3ac2b9500c) | ![HomePage_language_change](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/6999731e-5263-49e8-afa8-d0b8c8b8e7e3) |
 
 | Detail Page (Light Mode) | Home Page (Dark Mode) | Detail Page (Dark Mode) |
-|------------------------|---------------------------|--------------------------|
+|---------------------------|------------------------|--------------------------|
 | ![DetailPage_light_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/b1089f11-55dc-4e7a-8958-1fc65fb83026)| ![HomePage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/75bb4a67-89ac-4cf4-a482-24a07aac1c8e) | ![DetailPage_dark_mode](https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/392be1cd-ba24-48ba-9af5-820bfdbd7859) |
 
 ## Additional Resources
