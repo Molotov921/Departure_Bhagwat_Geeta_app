@@ -1,4 +1,4 @@
-# departure_bhagavad_gita
+# Departure_Bhagwat_Geeta
 
 A new Flutter project.
 
